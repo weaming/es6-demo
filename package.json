@@ -1,0 +1,23 @@
+{
+  "name": "es6-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weaming/es6-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "weaming <garden.yuen@gmail.com> (https://bitsflow.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weaming/es6-demo/issues"
+  },
+  "homepage": "https://github.com/weaming/es6-demo#readme"
+}
