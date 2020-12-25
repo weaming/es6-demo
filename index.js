@@ -84,8 +84,8 @@ function makeRequest(method, url) {
 //   })
 
 fetch('http://ip-api.com/json')
-  .then((response) => response.json())
-  .then((body) => print(body))
-  .catch((err) => {
+  .then(response => response.json())
+  .then(body => print(body))
+  .catch(err => {
     throw new Error(err)
   })
